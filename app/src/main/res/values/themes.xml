@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Tema oscuro permanente -->
+    <style name="Base.Theme.ComposableFirestore" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- Personalizaciones opcionales -->
+        <!-- <item name="colorPrimary">@color/tu_color</item> -->
+    </style>
+
+    <style name="Theme.ComposableFirestore" parent="Base.Theme.ComposableFirestore" />
+
+</resources>
